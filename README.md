@@ -6,7 +6,7 @@ The analysis of Company M's tenants involves those who have already submitted bo
 
 ## Business Understanding
 In the digital property industry, especially apartments or boarding houses offered for rent through digital platforms, tenants seeking accommodation are valuable assets as customers who make reservations or submit bookings, allowing companies to generate profits. This scenario raises several business questions using data:
-1. What is the composition of tenants who continue to use and leave Mamikos services?
+1. What is the composition of tenants who continue to use and leave Company M services?
 2. How does the number of tenants progress towards the churn rate from year to year?
 3. How does the tenant booking submission rate affect the churn rate?
 4. What is the distribution of cities based on tenant churn over the last five years?
@@ -30,7 +30,7 @@ In the digital property industry, especially apartments or boarding houses offer
    * total_favorites: Number of properties (boarding houses) liked by tenants
    * total_chat: Total tenant interactions with the owner via the ask owner feature
    * total_submit_booking: Total number of booking submissions by tenants
-   * total_visit: Total tenant visits to the Mamikos homepage
+   * total_visit: Total tenant visits to the Company M homepage
    * total_visit_listing: Total visits to detailed pages
    * total_click_booking: Total intensity of tenants making bookings before the day
    * churn: The possibility of a tenant canceling or choosing not to continue payments

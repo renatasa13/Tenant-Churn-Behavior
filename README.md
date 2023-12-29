@@ -79,7 +79,7 @@ Based on the sign-up type chart, there are categories such as unknown, web, iOS,
 # Dashboard
 ![image](https://github.com/renatasa13/Tenant-Churn-Behavior/assets/93513745/89bd2cf7-60ed-4d40-8359-6ed025e3fb12)
 
-Link Dashboard https://lookerstudio.google.com/s/qyneghkSekU 
+Link Dashboard [https://lookerstudio.google.com/s/qyneghkSekU ](https://lookerstudio.google.com/s/rxGhW_1Im3s)
 
 # Recommendation
 * Conducting an evaluation of the products and services by surveying users and conducting market research through collected feedback is a commendable approach. The findings can be reviewed to enhance ease of use and user comfort, thereby increasing user retention. Subsequently, marketing campaigns can be implemented to enhance service visibility. The fluctuation in the growth of tenants each year necessitates Company M to design strategies to improve and maintain customer retention based on evolving trends. Offers can be targeted, such as providing promotions during the start of the academic year for students, to increase the number of tenants. It's essential to consistently provide excellent service and maintain relationships with tenants to sustain their retention.
